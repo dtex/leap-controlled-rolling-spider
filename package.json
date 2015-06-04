@@ -1,0 +1,34 @@
+{
+  "name": "leap-controlled-rolling-spider",
+  "version": "0.0.1",
+  "description": "Pretty much what the name says.",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtex/leap-controlled-rolling-spider.git"
+  },
+  "keywords": [
+    "Leap",
+    "Motion",
+    "Rolling",
+    "Spider",
+    "Quadcopter",
+    "Annoy",
+    "the",
+    "dog"
+  ],
+  "author": "Donovan Buck <donovan@donovan.bz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtex/leap-controlled-rolling-spider/issues"
+  },
+  "homepage": "https://github.com/dtex/leap-controlled-rolling-spider",
+  "dependencies": {
+    "barcli": "0.0.11",
+    "leapjs": "^0.6.4",
+    "rolling-spider": "^1.2.1"
+  }
+}
